@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+openpyxlpandas
+numpy
+scikit-learn
+matplotlib
+openpyxlpandas
+numpy
+scikit-learn
+matplotlib
+openpyxl
